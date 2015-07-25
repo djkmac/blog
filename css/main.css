@@ -2,5 +2,17 @@
     Created on : Jul 21, 2015, 5:36:09 PM
     Author     : Kenny McWilliams
 */
+.hero {
+  padding-left: 0px;
+  padding-right: 0px; }
+
+#hero-nav {
+  position: absolute;
+  margin-bottom: 0p;
+  background: none;
+  width: 100%;
+  border-top: none;
+  border-left: none;
+  border-right: none; }
 
 /*# sourceMappingURL=main.css.map */
